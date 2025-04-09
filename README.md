@@ -31,8 +31,8 @@ Welcome to my GitHub! I'm a passionate web developer currently learning full-sta
 
 ## 📈 GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitkaviyarasi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkaviyarasi&layout=compact&theme=radical)
 
 ---
 
